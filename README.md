@@ -1,5 +1,6 @@
 
 
-# siagra.exe
+# siagra.bat
+
 what did i just make                                                                               
 
